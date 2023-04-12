@@ -1,3 +1,3 @@
-# heading
+# Dana
 
-text
+Welcome to my GitHub!
